@@ -10,7 +10,6 @@ AI
 比特币ETF
 以太坊ETF
 微策略公司
-贪婪与恐慌指数
 
 美国政府
 特朗普
@@ -59,11 +58,6 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
-
 chatgpt
 openai
 sora
@@ -71,13 +65,7 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
-!gai
 人工智能
 
 自动驾驶
@@ -97,10 +85,3 @@ ai
 科技
 
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
